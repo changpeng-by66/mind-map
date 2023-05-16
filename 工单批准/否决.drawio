@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2023-05-16T07:59:38.884Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="CsUQSEPVxSh5gQIXjseJ" version="21.2.9" type="github">
+  <diagram name="第 1 页" id="nR47ofF2NJUhJbM7Pzm7">
+    <mxGraphModel dx="954" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="l8dx8llybACvEtCwQqhP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l8dx8llybACvEtCwQqhP-1" target="l8dx8llybACvEtCwQqhP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l8dx8llybACvEtCwQqhP-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="30" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l8dx8llybACvEtCwQqhP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l8dx8llybACvEtCwQqhP-2" target="l8dx8llybACvEtCwQqhP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l8dx8llybACvEtCwQqhP-2" value="点击工作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="150" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l8dx8llybACvEtCwQqhP-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l8dx8llybACvEtCwQqhP-4" target="l8dx8llybACvEtCwQqhP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l8dx8llybACvEtCwQqhP-4" value="点击工单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="270" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l8dx8llybACvEtCwQqhP-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l8dx8llybACvEtCwQqhP-6" target="l8dx8llybACvEtCwQqhP-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l8dx8llybACvEtCwQqhP-6" value="搜索工单描述" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="390" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l8dx8llybACvEtCwQqhP-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l8dx8llybACvEtCwQqhP-8" target="l8dx8llybACvEtCwQqhP-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l8dx8llybACvEtCwQqhP-8" value="修改工单状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="510" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l8dx8llybACvEtCwQqhP-10" value="截图点击保存记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="630" width="130" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
